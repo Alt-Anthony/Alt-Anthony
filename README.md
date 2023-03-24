@@ -14,15 +14,6 @@ src="https://img.shields.io/github/last-commit/Alt-Anthony/Alt-Anthony" alt="Alt
 <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb&theme=dark" />
 </p>
 
-### :fire: Streak Stats :fire:
 
----
-
-<p align="center" height='130px'>
-<img src="https://github-readme-stats.vercel.app/api?username=Alt-Anthony&show_icons=true&theme=aura&hide_title=true" alt="MDCIrony repositorys stats"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alt-Anthony&layout=compact&show_icons=true&theme=aura&hide_title=true" alt="Alt-Anthony languages stats"/>
-</p>
 
 
